@@ -23,7 +23,9 @@ Menuden 0-7 arasi secim yaparak ilgili raporu gorebilirsiniz. Cikis icin 0 tusla
 
 A simple league and player statistics program written in Python.
 ## How to Run
-python football_statistics.py
+```
+python futbol_istatistik.py
+```
  ## Features
 - Standings (team rankings)
 - Top Scorers
