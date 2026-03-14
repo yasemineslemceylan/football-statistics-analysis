@@ -1,23 +1,23 @@
-# Futbol Istatistik Analiz Programi
+# Futbol İstatistik Analiz Programı
 
-Python ile yazilmis basit bir lig ve oyuncu istatistik programidir.
+Python ile yazılmıs basit bir lig ve oyuncu istatistik programıdır.
 
-## Calistirma
+## Çalıştırma
 
 ```
 python futbol_istatistik.py
 ```
 
-## Ozellikler
+## Özellikler
 
-- Puan durumu (takim siralamasi)
-- Gol kralligi
+- Puan durumu (takım sıralaması)
+- Gol krallığı
 - Asist liderleri
-- Takim ozet istatistikleri
-- Mac sonuclari
-- Takimlara gore oyuncu listesi
+- Takım özet istatistikleri
+- Maç sonuçları
+- Takımlara gore oyuncu listesi
 
-Menuden 0-7 arasi secim yaparak ilgili raporu gorebilirsiniz. Cikis icin 0 tuslayin.
+Menüden 0-7 arası seçim yaparak ilgili raporu görebilirsiniz. Çıkış için 0 tuşlayın.
 
 # football statistics analysis
 
